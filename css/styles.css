@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(251, 206, 240);
+}
+
+h1 {
+    width: 900px;
+    height: 300px;
+    color:rgb(243, 130, 236);
+}
+
+h2 {
+    color:rgb(19, 71, 213); 
+    
+}
+
+h3{
+    color:rgb(246, 178, 246);
+}
+
+article{
+    background-color:rgb(102, 138, 237);
+}
+p {
+    color:antiquewhite;
+}
+
+.section{
+    background-color: rgb(39, 14, 203);
+}
+
+.text {
+    color:rgb(233, 183, 239);
+}
+
+article {
+    color: rgb(246, 212, 249);
+}
+a {
+    display: inline-block;
+    background-color:rgb(218, 212, 249);
+    width: 90px;
+    height: 30px;
+}
